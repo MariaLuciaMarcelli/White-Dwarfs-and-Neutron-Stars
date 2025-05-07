@@ -1,3 +1,33 @@
 .ipynb_checkpoints/
 .ipynb_checkpoints/
+.DS_Stor# Checkpoint dei notebook Jupyter
+.ipynb_checkpoints/
+
+# File temporanei di sistema
 .DS_Store
+Thumbs.db
+
+# Output di Python e compilazioni
+__pycache__/
+*.py[cod]
+*.so
+
+# Ambienti virtuali
+env/
+venv/
+
+# File temporanei di editor
+*.swp
+*.swo
+
+# File di log o output temporanei
+*.log
+*.tmp
+*.out
+
+
+
+
+
+
+
